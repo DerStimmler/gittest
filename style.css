@@ -4,5 +4,9 @@ html{
 
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+<<<<<<< HEAD
     color: black;
+=======
+    color: blue;
+>>>>>>> 2d30d4f1dce4048a9a08f32adf3f632b67e1617c
 }
